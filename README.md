@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Shravani Shinde
 
-<!--
-**Shinde-Shravani/Shinde-Shravani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student  
+🌱 Currently learning Java, DSA & Full Stack Development  
+🚀 Interested in AI, Data Science & Software Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Java
+- Python
+- HTML & CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## 🚀 Projects
+
+- 🤖 AI-Based Smart Campus Navigator
+- 🍳 SmartKitchen – Recipe Recommendation System
+- 🛒 Smart Retail Sales Analytics
+- 🌐 Personal Portfolio
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shinde-Shravani)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shinde-Shravani)
