@@ -33,12 +33,7 @@ Passionate about building innovative solutions and turning ideas into real-world
 <tr>
 <td width="50%" valign="top">
 
-### 📌 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🔥 GitHub Streak
 
