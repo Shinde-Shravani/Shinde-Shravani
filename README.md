@@ -1,96 +1,111 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shravani Shinde</h1>
+<h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
 
-# Hi 👋, I'm <span style="color:#C77DFF;">Shravani Shinde</span>
+<table>
+<tr>
+<td width="30%" valign="top" align="center">
 
-**Computer Engineering Student | Aspiring Software Developer**
+<img src="https://github.com/Shinde-Shravani.png" width="180" style="border-radius:50%;" />
 
-Passionate about building innovative solutions and turning ideas into real-world applications.  
-Currently exploring Full Stack Development, AI, and Data Science.
+</td>
+<td width="70%" valign="top">
 
-🎓 **Computer Engineering @ SPPU**  
-🎯 **Goal:** Build impactful products & grow in tech  
-✨ **Fun fact:** I love learning and building cool things! 🚀
+Passionate about building innovative solutions and turning ideas into real-world applications. Currently exploring Full Stack Development, AI, and Data Science.
+
+- 🎓 Computer Engineering @ SPPU
+- 🎯 **Goal:** Build impactful products & grow in tech
+- ✨ **Fun fact:** I love learning and building cool things! 🚀
+
+<p>
+<a href="mailto:shinde.shravani39@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Shinde-Shravani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-shinde.shravani39%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinde.shravani39@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255fff?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shinde-Shravani)
-
-</div>
-
----
-
-### 📊 Stats & Activity
-
 <table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=tokyonight" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinde-Shravani&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📌 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shinde-Shravani&theme=radical&hide_border=true)
+
+</td>
+</tr>
 </table>
 
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shinde-Shravani&theme=tokyonight)
+<br/>
 
-### 🐍 Contribution Snake
-![Snake Animation](https://raw.githubusercontent.com/Shinde-Shravani/Shinde-Shravani/output/github-contribution-grid-snake.svg)
+### 📊 GitHub Activity Graph
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shinde-Shravani&theme=react-dark&hide_border=true)
 
-### 🛠️ Tech Stack & Featured Projects
+<br/>
+
+### 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Shinde-Shravani/Shinde-Shravani/output/github-contribution-grid-snake.svg)
+
+> ✨ The snake eats my contributions!
+
+<br/>
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">📌 Most Used Languages</h4>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shinde-Shravani&layout=compact&theme=tokyonight" width="100%" />
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🛠️ Tech Stack & Tools</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      </p>
-    </td>
-    <td width="34%" valign="top">
-      <h4 align="center">🚀 Featured Projects</h4>
-      <ul>
-        <li><b>🤖 AI-Based Smart Campus Navigator</b><br/><i>Smart assistant for campus navigation with AI & real-time guidance.</i></li>
-        <br/>
-        <li><b>🍳 SmartKitchen</b><br/><i>Recipe recommendation system based on ingredients and preferences.</i></li>
-        <br/>
-        <li><b>📊 Smart Retail Sales Analytics</b><br/><i>Data analytics project for sales insights and demand forecasting.</i></li>
-        <br/>
-        <li><b>🌐 Personal Portfolio</b><br/><i>My personal portfolio website built with HTML, CSS, JS and hosted online.</i></li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🚀 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinde-Shravani&layout=donut&theme=radical&hide_border=true)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Tech Stack & Tools
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,github,vscode,figma" />
+
+</td>
+<td width="34%" valign="top">
+
+### 🚧 Featured Projects
+
+- 🎓 **[AI-Based Smart Campus Navigator](https://github.com/Shinde-Shravani/REPO_NAME)**
+  Smart assistant for campus navigation with AI & real-time guidance.
+
+- 🍳 **[SmartKitchen](https://github.com/Shinde-Shravani/REPO_NAME)**
+  Recipe recommendation system based on ingredients and preferences.
+
+- 📊 **[Smart Retail Sales Analytics](https://github.com/Shinde-Shravani/REPO_NAME)**
+  Data analytics project for sales insights and demand forecasting.
+
+- 💼 **[Personal Portfolio](https://github.com/Shinde-Shravani/REPO_NAME)**
+  My personal portfolio website built with HTML, CSS, JS and hosted online.
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-<div align="center">
+<p align="center">💡 <i>Consistency today, success tomorrow.</i></p>
 
-💡 *Consistency today, success tomorrow.*
+<p align="center">
+📧 shinde.shravani39@gmail.com &nbsp;|&nbsp; 📍 India &nbsp;|&nbsp; 📌 Open to Internships & Opportunities
+</p>
 
-📩 `shinde.shravani39@gmail.com` | 📍 **India** | 💼 **Open to Internships & Opportunities**
-
-⭐ From **Shravani Shinde** with ❤️
-
-</div>
+<p align="center">⭐ From <a href="https://github.com/Shinde-Shravani">Shravani Shinde</a> with ❤️</p>
