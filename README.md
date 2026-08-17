@@ -27,16 +27,16 @@ Currently exploring Full Stack Development, AI, and Data Science.
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=dark&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=tokyonight" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinde-Shravani&theme=dark&hide_border=true" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinde-Shravani&theme=tokyonight" width="100%" />
     </td>
   </tr>
 </table>
 
 ### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shinde-Shravani&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shinde-Shravani&theme=tokyonight)
 
 ### 🐍 Contribution Snake
 ![Snake Animation](https://raw.githubusercontent.com/Shinde-Shravani/Shinde-Shravani/output/github-contribution-grid-snake.svg)
@@ -49,7 +49,7 @@ Currently exploring Full Stack Development, AI, and Data Science.
   <tr>
     <td width="33%" valign="top">
       <h4 align="center">📌 Most Used Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinde-Shravani&layout=donut&theme=dark&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shinde-Shravani&layout=compact&theme=tokyonight" width="100%" />
     </td>
     <td width="33%" valign="top">
       <h4 align="center">🛠️ Tech Stack & Tools</h4>
