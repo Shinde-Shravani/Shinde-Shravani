@@ -5,7 +5,7 @@
 <tr>
 <td width="30%" valign="top" align="center">
 
-<img src="https://github.com/Shinde-Shravani.png" width="180" style="border-radius:50%;" />
+
 
 </td>
 <td width="70%" valign="top">
