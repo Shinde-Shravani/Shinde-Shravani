@@ -2,13 +2,7 @@
 <h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
 
 <table>
-<tr>
-<td width="30%" valign="top" align="center">
 
-
-
-</td>
-<td width="70%" valign="top">
 
 Passionate about building innovative solutions and turning ideas into real-world applications. Currently exploring Full Stack Development, AI, and Data Science.
 
@@ -23,7 +17,7 @@ Passionate about building innovative solutions and turning ideas into real-world
 <a href="https://github.com/Shinde-Shravani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-</td>
+
 </tr>
 </table>
 
