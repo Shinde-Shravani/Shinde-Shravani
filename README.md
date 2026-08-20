@@ -2,6 +2,8 @@
 <tr>
 <td width="60%" valign="top">
 
+<img src="https://github.com/Shinde-Shravani.png" width="100" align="left" style="border-radius: 50%; margin-right: 15px;" />
+
 # Hi 👋, I'm <br/> Shravani Shinde
 
 ### Computer Engineering Student | Aspiring Software Developer
