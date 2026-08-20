@@ -47,18 +47,22 @@ Passionate about building innovative solutions and turning ideas into real-world
 ### 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shinde-Shravani/Shinde-Shravani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shinde-Shravani/Shinde-Shravani/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shinde-Shravani/Shinde-Shravani/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shinde-Shravani/Shinde-Shravani/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shinde-Shravani/Shinde-Shravani/output/github-snake.svg">
+  <img alt="Shinde-Shravani's github contribution snake" src="https://raw.githubusercontent.com/Shinde-Shravani/Shinde-Shravani/output/github-snake.svg" width="100%">
 </picture>
-
-> ✨ The snake eats my contributions!
 
 <br/>
 
-<table border="0">
-<tr>
-<td width="45%" valign="top">
+| 📊 GitHub Stats | 🚀 Top Languages |
+| :--- | :--- |
+| ![Shravani's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=radical&hide_border=true) | ![Shravani's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shinde-Shravani&layout=compact&theme=radical&hide_border=true) |
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinde-Shravani&theme=radical&hide_border=true" alt="Shravani's streak stats" />
+</p>
 
 ### 🚀 Most Used Languages
 
