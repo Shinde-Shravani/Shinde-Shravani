@@ -1,33 +1,32 @@
-<table border="0">
-<tr>
-<td width="55%" valign="top">
-
-# Hi 👋, I'm <br/> Shravani Shinde
-
-### Computer Engineering Student | Aspiring Software Developer
+Hi 👋, I'm <br/> Shravani Shinde
+Computer Engineering Student | Aspiring Software Developer
 
 Passionate about building innovative solutions and turning ideas into real-world applications. Currently exploring Full Stack Development, AI, and Data Science.
 
-* 🎓 Computer Engineering @ SPPU
-* 🎯 **Goal:** Build impactful products & grow in tech
-* ✨ **Fun fact:** I love learning and building cool things! 🚀
+🎓 Computer Engineering @ SPPU
+🎯 Goal: Build impactful products & grow in tech
+✨ Fun fact: I love learning and building cool things! 🚀
 
 <br/>
 
-<p>
-  <a href="mailto:shinde.shravani39@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Shinde-Shravani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<p> <a href="mailto:shinde.shravani39@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://YOUR-PORTFOLIO-LINK.com"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/Shinde-Shravani"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+<br/>
+
+📊 GitHub Stats
+
+<p> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=radical&hide_border=true" /> </p>
+
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinde-Shravani&theme=radical&hide_border=true" /> </p>
 
 </td>
+
 <td width="45%" valign="top">
 
+📈 GitHub Activity
 
-### 📊 GitHub Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shinde-Shravani&theme=react-dark&hide_border=true)
+
 
 <br/>
 
