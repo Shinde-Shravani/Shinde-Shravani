@@ -13,22 +13,6 @@ Passionate about building innovative solutions and turning ideas into real-world
 
 <br/>
 
-📊 GitHub Stats
-
-<p> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=radical&hide_border=true" /> </p>
-
-<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinde-Shravani&theme=radical&hide_border=true" /> </p>
-
-</td>
-
-<td width="45%" valign="top">
-
-📈 GitHub Activity
-
-
-
-
-<br/>
 
 ### 🐍 GitHub Contribution Snake
 
