@@ -24,19 +24,6 @@ Passionate about building innovative solutions and turning ideas into real-world
 </td>
 <td width="45%" valign="top">
 
-### 📝 GitHub Stats
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=radical&hide_border=true)
-
-<br/>
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shinde-Shravani&theme=radical&hide_border=true)
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ### 📊 GitHub Activity Graph
 
