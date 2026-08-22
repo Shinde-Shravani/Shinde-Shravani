@@ -1,17 +1,22 @@
-Hi 👋, I'm <br/> Shravani Shinde
-Computer Engineering Student | Aspiring Software Developer
+<div align="center">
 
-Passionate about building innovative solutions and turning ideas into real-world applications. Currently exploring Full Stack Development, AI, and Data Science.
-
-🎓 Computer Engineering @ SPPU
-🎯 Goal: Build impactful products & grow in tech
-✨ Fun fact: I love learning and building cool things! 🚀
+<img src="./shravani-floral-header.gif" width="100%" alt="Shravani Shinde floral animated header"/>
 
 <br/>
 
-<p> <a href="mailto:shinde.shravani39@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://YOUR-PORTFOLIO-LINK.com"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/Shinde-Shravani"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+💻 Computer Engineering Student | 🌸 Aspiring Software Developer
 
-<br/>
+<p>
+  <i>Building ideas, learning new technologies & creating things that make an impact. ♡</i>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/💗%20Developer-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌸%20AI%20Enthusiast-C77DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✨%20Problem%20Solver-FF9ECF?style=for-the-badge" />
+</p>
+
+</div>
 
 
 ### 🐍 GitHub Contribution Snake
