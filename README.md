@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="./shravani-floral-header.gif" width="100%" alt="Shravani Shinde floral animated header"/>
+# 🌸 Shravani Shinde 🌸
+
+### 💻 Computer Engineering Student | 🌷 Aspiring Software Developer
+
+<i>✨ Dream • Code • Create • Inspire ✨</i>
 
 <br/>
 
-💻 Computer Engineering Student | 🌸 Aspiring Software Developer
-
-<p>
-  <i>Building ideas, learning new technologies & creating things that make an impact. ♡</i>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/💗%20Developer-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌸%20AI%20Enthusiast-C77DFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/✨%20Problem%20Solver-FF9ECF?style=for-the-badge" />
-</p>
+<img src="./shravani-floral-header.gif" width="100%" alt="Shravani Shinde Floral Header"/>
 
 </div>
 
