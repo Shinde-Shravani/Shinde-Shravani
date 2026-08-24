@@ -30,7 +30,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shinde-Shravani&theme=rose_pine&hide_border=true&background=FFF0F7&ring=FF69B4&fire=FF69B4&currStreakLabel=C77DFF&sideLabels=8E6BBD&dates=9B7AAE" alt="Shravani's streak stats" />
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Shinde-Shravani&theme=rose_pine&hide_border=true&background=FFF0F7&ring=FF69B4&fire=FF69B4&currStreakLabel=C77DFF&sideLabels=8E6BBD&dates=9B7AAE"
+    alt="Shravani's GitHub Streak"
+  />
 </p>
 
 ### 🚀 Most Used Languages
