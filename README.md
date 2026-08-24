@@ -23,23 +23,22 @@
 
 <br/>
 
-| 📊 GitHub Stats | 🚀 Top Languages |
+| 🌸 GitHub Stats | 💕 Top Languages |
 | :--- | :--- |
-| ![Shravani's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=radical&hide_border=true) | ![Shravani's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shinde-Shravani&layout=compact&theme=radical&hide_border=true) |
+| ![Shravani's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Shinde-Shravani&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff69b4&icon_color=c77dff&text_color=8e6bbd&bg_color=fff0f7) | ![Shravani's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shinde-Shravani&layout=compact&theme=tokyonight&hide_border=true&title_color=ff69b4&text_color=8e6bbd&bg_color=fff0f7) |
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinde-Shravani&theme=radical&hide_border=true" alt="Shravani's streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Shinde-Shravani&theme=rose_pine&hide_border=true&background=FFF0F7&ring=FF69B4&fire=FF69B4&currStreakLabel=C77DFF&sideLabels=8E6BBD&dates=9B7AAE" alt="Shravani's streak stats" />
 </p>
 
 ### 🚀 Most Used Languages
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shinde-Shravani&layout=donut&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shinde-Shravani&layout=donut&theme=tokyonight&hide_border=true&title_color=ff69b4&text_color=8e6bbd&bg_color=fff0f7)
 
 </td>
 <td width="55%" valign="top">
-
 ### 🚧 Featured Projects
 
 * 🎓 **[AI-Based Smart Campus Navigator](https://github.com/Shinde-Shravani/REPO_NAME)**  
